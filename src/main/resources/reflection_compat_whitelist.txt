@@ -1,0 +1,18 @@
+# Reflection 兼容白名单（数据文件，可自由编辑；改后重启生效）
+# 命中白名单的 mod 会被所有防御拦截层跳过：不中和 SPI、不清方法、不反退出、
+# 不移除服务/插件、不清模块、不纳入扫描目标。
+#
+# 两种条目：
+#   1) 包前缀（默认）：直接写包名（点或斜杠均可），按前缀匹配类名。
+#      例：software.bernie   ← 匹配 software.bernie.geckolib.* 等
+#   2) jar 名关键字：以 jar= 开头，按小写子串匹配 jar 文件名。
+#      例：jar=geckolib
+#
+# 行首 # 为注释；空行忽略。请勿在此写攻击型 mod。
+
+# ——— 常见良性库 / 内容 mod ———
+software.bernie
+mezz.jei
+
+jar=geckolib
+jar=jei

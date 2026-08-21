@@ -1,0 +1,10 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "reflection:item/endoftaichi"
+  },
+  "loader": "reflection:cosmic",
+  "cosmic": {
+    "mask": "reflection:item/endoftaichi_mask"
+  }
+}

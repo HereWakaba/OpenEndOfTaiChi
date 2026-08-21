@@ -1,0 +1,10 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "reflection:item/endofoptima"
+  },
+  "loader": "reflection:cosmic",
+  "cosmic": {
+    "mask": "reflection:item/endofoptima_mask"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "reflection:custom/scythe",
+  "textures": {
+    "0": "reflection:item/scythe",
+    "particle": "reflection:item/scythe"
+  }
+}
