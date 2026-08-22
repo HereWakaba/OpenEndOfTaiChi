@@ -44,6 +44,7 @@
 - 二号猪（pig2mod）
 - 全能生物（omni-mobs）
 - 奥数漩涡（arcanevortex）
+- 永远不剑（never sword）
 - dddd
 - Vansh
 - truedamage
