@@ -41,7 +41,7 @@
 - 天体枢纽裁决（celestial pivot verdict）
 - 锻造（Forge）
 - 我的世界（Minecraft）
-- JDK18.0.4-8（OpenJDK）
+- JDK17.0.4-8（OpenJDK）
 - 疯狂实体（madness entities）
 - 二号猪（pig2mod）
 - 全能生物（omni-mobs）
